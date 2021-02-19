@@ -5,6 +5,10 @@
   "repository": "git@github.com:hiukky/sr.git",
   "author": "Romullo <developermarsh@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo test",
+    "release": "semantic-release"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
