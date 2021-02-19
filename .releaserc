@@ -15,6 +15,13 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
+    "@semantic-release/github",
+    [
+      "@semantic-release/exec",
+      {
+        "success": "rm -rf dist"
+      }
+    ],
     [
       "@semantic-release/npm",
       {
@@ -32,8 +39,7 @@
         ],
         "message": "chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
       }
-    ],
-    "@semantic-release/github"
+    ]
   ],
   "repositoryUrl": "https://github.com/hiukky/sr"
 }
