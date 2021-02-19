@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hiukky/sr/compare/v1.0.0...v1.0.1) (2021-02-19)
+
+
+### Bug Fixes
+
+* module imports ([14b91ae](https://github.com/hiukky/sr/commit/14b91ae604a651947cc71a385f8a6073bfe9c136))
+
 # 1.0.0 (2021-02-19)
 
 
