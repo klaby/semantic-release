@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/hiukky/sr/compare/v1.0.1...v1.1.0) (2021-02-19)
+
+
+### Features
+
+* add exec plugin ([446796a](https://github.com/hiukky/sr/commit/446796ab0239e2bb4044204fe4db7ab5ffbad1f9))
+
 # [1.1.0-beta.1](https://github.com/hiukky/sr/compare/v1.0.1...v1.1.0-beta.1) (2021-02-19)
 
 
