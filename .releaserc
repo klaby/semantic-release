@@ -1,5 +1,6 @@
 {
   "branches": [
+    "+([1-9])?(.{+([1-9]),x}).x",
     "main",
     {
       "name": "beta",
@@ -34,5 +35,5 @@
     ],
     "@semantic-release/github"
   ],
-  "repositoryUrl": "https://github.com/hiukky/grule"
+  "repositoryUrl": "https://github.com/hiukky/sr"
 }
